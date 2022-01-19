@@ -1,0 +1,33 @@
+.title {
+    border: solid 5px black;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+}
+
+.term {
+    border: solid 5px red;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+}
+
+.def {
+    border: solid 5px blue;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+}
+
+.button {
+    text-align: center;
+    margin-top: 100px;
+}
+
+button {
+    color: white;
+    background-color: teal;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+button:hover {
+    transform: scale(1.1)
+}
